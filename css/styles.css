@@ -1,0 +1,22 @@
+.jumbo-image {
+  background-image: url("../images/resort.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 751px;
+}
+
+.jumbotron {
+  padding: 0px;
+}
+
+.jumbo-items {
+  color: white;
+  text-align: center;
+  display: inline-block;
+  margin-top: 150px;
+  margin-left: 34%;
+
+}
+
+.jumbo-button {
+}
